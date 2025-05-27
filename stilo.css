@@ -8,11 +8,11 @@
   --verde-fundo: #5c9b6e;
   --branco-principal: #ffffff;
   --fonte-principal: "Lustria";
-  --verde-principal: #3bb18e;
+  --verde-principal: #000000;
   --azul-principal: #0169b4;
   --verde-secundario: #313a22;
   --link: #0a4804;
-  --preto-titulo: #000;
+  --preto-titulo: #fafafa;
 }
 
 /* configurações do corpo como fontes e cores*/
