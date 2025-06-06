@@ -113,9 +113,9 @@ a.cabecalho__botao {
   margin-left: 40px;
 }
 .secao2__img__subtitulo {
-  margin-top: 35px;
+  margin-top: 15px;
   color: var(--preto-titulo);
-  font-size: 25px;
+  font-size: 15px;
 }
 .secao1__descricao,
 .secao2__img__subtitulo {
